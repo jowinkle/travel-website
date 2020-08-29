@@ -83,7 +83,7 @@ nav ul {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
+  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
     url("/img/landing-page.jpg");
   color: white;
   display: flex;
